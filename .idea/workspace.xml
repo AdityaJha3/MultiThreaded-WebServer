@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e94d50-35cd-43e3-ad8e-f5f435ae8a9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreaded/Client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreaded/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreaded/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreaded/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreaded/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadPool/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleThreaded/client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleThreaded/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleThreaded/server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleThreaded/server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +46,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/Development/Webserver",
@@ -69,7 +80,7 @@
       <updated>1768509013765</updated>
       <workItem from="1768509017877" duration="253000" />
       <workItem from="1768743582280" duration="636000" />
-      <workItem from="1768831144760" duration="298000" />
+      <workItem from="1768831144760" duration="641000" />
     </task>
     <servers />
   </component>
